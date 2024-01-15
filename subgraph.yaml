@@ -8,7 +8,7 @@ dataSources:
     source:
       owner: "0x364b12552257be5926a907751fdCD463e9eeA400"
     mapping:
-      apiVersion: 0.0.5
+      apiVersion: 0.0.6
       language: wasm/assemblyscript
       entities:
         - Block
